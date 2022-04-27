@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(235, 252, 252);
+}
+
+textarea {
+  background-color: rgb(850, 244, 245);
+}
+
+button {
+  border: 1px solid black;
+  text-align: left;
+  font-size: 15px;
+  width:150px;
+  height:40px;
+  margin-top: 10px;
+  padding: 8px;
+  border-radius: 10px;
+}
+.Error{
+  color: red;
+}
